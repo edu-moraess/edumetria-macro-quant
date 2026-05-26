@@ -1,0 +1,69 @@
+﻿Segmento,Produto,Data,Vendas_Reais,Vendas_Projetadas_Exog
+Agrícola,Colheitadeieas de grãos,2024-09-01,306.0,210.252
+Agrícola,Colheitadeieas de grãos,2024-10-01,341.0,237.42366666666666
+Agrícola,Colheitadeieas de grãos,2024-11-01,319.0,212.981
+Agrícola,Colheitadeieas de grãos,2024-12-01,583.0,180.73933333333335
+Agrícola,Tratores de rodas,2024-09-01,4716.0,4238.515
+Agrícola,Tratores de rodas,2024-10-01,4393.0,4235.775
+Agrícola,Tratores de rodas,2024-11-01,3990.0,4150.7
+Agrícola,Tratores de rodas,2024-12-01,3846.0,4319.44
+Agrícola,Tratores de rodas e Colheitadeiras de grãos,2024-09-01,594.0,631.8866666666668
+Agrícola,Tratores de rodas e Colheitadeiras de grãos,2024-10-01,443.0,591.7941666666667
+Agrícola,Tratores de rodas e Colheitadeiras de grãos,2024-11-01,414.0,498.41
+Agrícola,Tratores de rodas e Colheitadeiras de grãos,2024-12-01,470.0,467.9916666666666
+Construção,Escavadeiras hidráulicas,2024-09-01,1135.0,790.2196554834054
+Construção,Escavadeiras hidráulicas,2024-09-01,75.0,279.86577936318065
+Construção,Escavadeiras hidráulicas,2024-10-01,1089.0,769.8586078643577
+Construção,Escavadeiras hidráulicas,2024-10-01,94.0,336.93615873015887
+Construção,Escavadeiras hidráulicas,2024-11-01,1128.0,802.1512745310246
+Construção,Escavadeiras hidráulicas,2024-11-01,45.0,347.8829444444445
+Construção,Escavadeiras hidráulicas,2024-12-01,1088.0,804.5975580808081
+Construção,Escavadeiras hidráulicas,2024-12-01,62.0,338.14615873015885
+Construção,Manipulador telescópico,2024-09-01,32.0,144.80633333333336
+Construção,Manipulador telescópico,2024-10-01,29.0,149.71633333333335
+Construção,Manipulador telescópico,2024-11-01,49.0,146.07216666666667
+Construção,Manipulador telescópico,2024-12-01,40.0,105.32433298433834
+Construção,Mini-carregadeira,2024-09-01,191.0,220.15687620883557
+Construção,Mini-carregadeira,2024-10-01,149.0,220.15687620883557
+Construção,Mini-carregadeira,2024-11-01,195.0,230.321217124888
+Construção,Mini-carregadeira,2024-12-01,160.0,218.36878097074035
+Construção,Motoniveladoras,2024-09-01,213.0,134.70712364766285
+Construção,Motoniveladoras,2024-09-01,204.0,220.15687620883557
+Construção,Motoniveladoras,2024-10-01,221.0,220.15687620883557
+Construção,Motoniveladoras,2024-10-01,242.0,220.15687620883557
+Construção,Motoniveladoras,2024-11-01,148.0,206.1562845461496
+Construção,Motoniveladoras,2024-11-01,223.0,231.22264569631653
+Construção,Motoniveladoras,2024-12-01,121.0,220.15687620883557
+Construção,Motoniveladoras,2024-12-01,130.0,250.6171222034118
+Construção,Pas carregadeiras,2024-09-01,466.0,554.5064864145517
+Construção,Pas carregadeiras,2024-09-01,260.0,225.88690419469896
+Construção,Pas carregadeiras,2024-10-01,461.0,572.1851180884333
+Construção,Pas carregadeiras,2024-10-01,385.0,225.88690419469896
+Construção,Pas carregadeiras,2024-11-01,359.0,581.3736600464754
+Construção,Pas carregadeiras,2024-11-01,285.0,692.202775736341
+Construção,Pas carregadeiras,2024-12-01,635.0,578.2675733553887
+Construção,Pas carregadeiras,2024-12-01,299.0,218.483226206021
+Construção,Retroescavadeiras,2024-09-01,780.0,942.7543971704627
+Construção,Retroescavadeiras,2024-09-01,306.0,238.33673647551274
+Construção,Retroescavadeiras,2024-10-01,967.0,798.1593538804191
+Construção,Retroescavadeiras,2024-10-01,486.0,253.439206713608
+Construção,Retroescavadeiras,2024-11-01,802.0,222.79815191919664
+Construção,Retroescavadeiras,2024-11-01,288.0,271.40841941391943
+Construção,Retroescavadeiras,2024-12-01,882.0,915.0254610232765
+Construção,Retroescavadeiras,2024-12-01,288.0,178.02890512630646
+Construção,Rolos compactadores,2024-09-01,369.0,268.69035182009486
+Construção,Rolos compactadores,2024-09-01,70.0,224.205641013706
+Construção,Rolos compactadores,2024-10-01,353.0,274.34929744221466
+Construção,Rolos compactadores,2024-10-01,66.0,226.23764101370602
+Construção,Rolos compactadores,2024-11-01,255.0,270.89477363269083
+Construção,Rolos compactadores,2024-11-01,69.0,154.13303878893245
+Construção,Rolos compactadores,2024-12-01,208.0,267.7419164898337
+Construção,Rolos compactadores,2024-12-01,43.0,218.36878097074035
+Construção,Tratores de esteira,2024-09-01,107.0,145.46095082134445
+Construção,Tratores de esteira,2024-09-01,287.0,255.41074174389658
+Construção,Tratores de esteira,2024-10-01,74.0,117.75838321119876
+Construção,Tratores de esteira,2024-10-01,265.0,269.5297736326909
+Construção,Tratores de esteira,2024-11-01,70.0,125.28304337499134
+Construção,Tratores de esteira,2024-11-01,244.0,267.7419164898337
+Construção,Tratores de esteira,2024-12-01,53.0,186.89338285232876
+Construção,Tratores de esteira,2024-12-01,192.0,279.1544218270609
